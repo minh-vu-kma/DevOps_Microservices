@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<minh-vu-kma>](https://circleci.com/gh/minh-vu-kma/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/minh-vu-kma/project-ml-microservice-kubernetes)
 #GET_PASSES_THIS_REPO_UDACITY_PLEASE
 ## Project Overview
 
@@ -48,3 +48,5 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+# project-ml-microservice-kubernetes
+# project-ml-microservice-kubernetes
